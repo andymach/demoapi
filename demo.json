@@ -1,1 +1,13 @@
+{
+  "videos": [
+    {
+      "videoUrl": "https://example.com/videos/video1.mp4",
+      "videoThumbnail": "https://example.com/thumbnails/video1.jpg"
+    },
+    {
+      "videoUrl": "https://example.com/videos/video2.mp4",
+      "videoThumbnail": "https://example.com/thumbnails/video2.jpg"
+    }
+  ]
+}
 
